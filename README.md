@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Telegram Mini App Crypto Casino & Sports Betting Engine </h1>
+<h1> Telegram Mini App Crypto Casino Bot & Sports Betting Engine </h1>
 
 <p align="center">
   <a href="https://mintscripts.net/en/market/115-telegram-mini-app-crypto-casino-script-api-slots.html"><b>🔥 Official Documentation & Live Demo Hub</b></a>
